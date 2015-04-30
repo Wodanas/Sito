@@ -15,3 +15,4 @@ $password = "";
 
 
 $connessione = new PDO("mysql:host=$host;dbname=$db", $user, $password);
+echo 'ciao' ?>
